@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="316" viewBox="0 0 920 316" role="img" aria-labelledby="title desc">
+  <title id="title">DivineLabs public organization metrics</title>
+  <desc id="desc">Automatically updated public repository statistics and achievements.</desc>
+  <style>
+    text { font-family: Inter, Segoe UI, Arial, sans-serif; }
+    .heading { fill: #E0F2FE; font-size: 15px; font-weight: 700; letter-spacing: 1.6px; }
+    .label { fill: #64748B; font-size: 11px; font-weight: 700; letter-spacing: .8px; }
+    .value { font-size: 22px; font-weight: 800; }
+    .achievement { fill: #E0F2FE; font-size: 12px; font-weight: 700; }
+    .detail { fill: #64748B; font-size: 11px; }
+    .icon { fill: #7DD3FC; font-size: 16px; font-weight: 800; }
+    .legend { fill: #94A3B8; font-size: 11px; }
+  </style>
+  <rect x="1" y="1" width="918" height="314" rx="18" fill="#070B13" stroke="#1E3A5F"/>
+  <text x="34" y="35" class="heading">STATS</text>
+  <text x="488" y="35" class="heading">ACHIEVEMENTS</text>
+  
+  <g transform="translate(34 52)">
+    <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <text x="16" y="29" class="label">PUBLIC REPOSITORIES</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">3</text>
+  </g>
+  
+  <g transform="translate(228 52)">
+    <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <text x="16" y="29" class="label">STARS</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">1</text>
+  </g>
+  
+  <g transform="translate(34 134)">
+    <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <text x="16" y="29" class="label">FORKS</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">0</text>
+  </g>
+  
+  <g transform="translate(228 134)">
+    <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <text x="16" y="29" class="label">RELEASES</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">13</text>
+  </g>
+  
+  <g transform="translate(488 52)">
+    <rect width="204" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
+    <text x="34" y="43" text-anchor="middle" class="icon">◇</text>
+    <text x="64" y="31" class="achievement">OPEN SOURCE</text>
+    <text x="64" y="51" class="detail">3 public repositories</text>
+  </g>
+  
+  <g transform="translate(702 52)">
+    <rect width="204" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
+    <text x="34" y="43" text-anchor="middle" class="icon">↟</text>
+    <text x="64" y="31" class="achievement">RELEASE CRAFT</text>
+    <text x="64" y="51" class="detail">13 published releases</text>
+  </g>
+  
+  <g transform="translate(488 134)">
+    <rect width="204" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
+    <text x="34" y="43" text-anchor="middle" class="icon">✦</text>
+    <text x="64" y="31" class="achievement">COMMUNITY</text>
+    <text x="64" y="51" class="detail">1 stars and forks</text>
+  </g>
+  
+  <g transform="translate(702 134)">
+    <rect width="204" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
+    <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
+    <text x="34" y="43" text-anchor="middle" class="icon">⌁</text>
+    <text x="64" y="31" class="achievement">MULTI STACK</text>
+    <text x="64" y="51" class="detail">14 detected languages</text>
+  </g>
+  <text x="34" y="236" class="heading">LANGUAGES</text>
+  <clipPath id="languageBar"><rect x="34" y="250" width="852" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#languageBar)"><rect x="34" y="250" width="677" height="10" fill="#38BDF8"/><rect x="711" y="250" width="65" height="10" fill="#0EA5E9"/><rect x="776" y="250" width="48" height="10" fill="#2563EB"/><rect x="824" y="250" width="41" height="10" fill="#6366F1"/><rect x="865" y="250" width="5" height="10" fill="#22D3EE"/><rect x="870" y="250" width="4" height="10" fill="#60A5FA"/></g>
+  <circle cx="34" cy="286" r="5" fill="#38BDF8"/><text x="46" y="291" class="legend">Rust 79.4%</text><circle cx="250" cy="286" r="5" fill="#0EA5E9"/><text x="262" y="291" class="legend">ActionScript 7.6%</text><circle cx="466" cy="286" r="5" fill="#2563EB"/><text x="478" y="291" class="legend">Fluent 5.6%</text><circle cx="682" cy="286" r="5" fill="#6366F1"/><text x="694" y="291" class="legend">TypeScript 4.9%</text>
+  <text x="886" y="303" text-anchor="end" class="detail">public data · daily update</text>
+</svg>

@@ -2,7 +2,6 @@
   <img src="assets/divinelabs-anime-panorama.png" width="100%" alt="DivineLabs anime banner" />
 
   <h1>DIVINELABS</h1>
-  <sub>THE DIVINE DEMON SECT</sub>
   <br /><br />
 
   [![Organization](https://img.shields.io/badge/GitHub-TheDivineLabs-0F172A?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/TheDivineLabs)

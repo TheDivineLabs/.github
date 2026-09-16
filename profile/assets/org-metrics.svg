@@ -37,7 +37,7 @@
   <g transform="translate(228 134)">
     <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
     <text x="16" y="29" class="label">RELEASES</text>
-    <text x="16" y="55" class="value" fill="#38BDF8">14</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">15</text>
   </g>
   
   <g transform="translate(488 52)">
@@ -53,7 +53,7 @@
     <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
     <text x="34" y="43" text-anchor="middle" class="icon">↟</text>
     <text x="64" y="31" class="achievement">RELEASE CRAFT</text>
-    <text x="64" y="51" class="detail">14 published releases</text>
+    <text x="64" y="51" class="detail">15 published releases</text>
   </g>
   
   <g transform="translate(488 134)">

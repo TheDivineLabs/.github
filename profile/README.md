@@ -38,5 +38,12 @@
 </div>
 
 <!-- PORTFOLIO:START -->
-<!-- Selected project cards will be placed here. -->
+<table>
+  <tr><td>
+    <h3><a href="https://github.com/TheDivineLabs/DivineLabs_Installer">DivineLabs Installer</a></h3>
+    <p>Native installers for Windows, macOS and Linux. Your app, your branding, one JSON config.</p>
+    <p><strong>Avalonia · .NET Native AOT · x64 / ARM64 · MIT</strong></p>
+    <p><a href="https://thedivinelabs.github.io/installer/">Website</a> · <a href="https://github.com/TheDivineLabs/DivineLabs_Installer/releases">Download SDK</a> · <a href="https://github.com/TheDivineLabs/DivineLabs_Installer/blob/main/docs/github-actions.md">GitHub Action</a> · <a href="https://github.com/TheDivineLabs/DivineLabs_Installer/blob/main/README.ru.md">Русский</a></p>
+  </td></tr>
+</table>
 <!-- PORTFOLIO:END -->

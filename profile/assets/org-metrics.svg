@@ -19,7 +19,7 @@
   <g transform="translate(34 52)">
     <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
     <text x="16" y="29" class="label">PUBLIC REPOSITORIES</text>
-    <text x="16" y="55" class="value" fill="#38BDF8">4</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">6</text>
   </g>
   
   <g transform="translate(228 52)">
@@ -37,7 +37,7 @@
   <g transform="translate(228 134)">
     <rect width="184" height="72" rx="13" fill="#0B1220" stroke="#1E3A5F"/>
     <text x="16" y="29" class="label">RELEASES</text>
-    <text x="16" y="55" class="value" fill="#38BDF8">23</text>
+    <text x="16" y="55" class="value" fill="#38BDF8">28</text>
   </g>
   
   <g transform="translate(488 52)">
@@ -45,7 +45,7 @@
     <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
     <text x="34" y="43" text-anchor="middle" class="icon">◇</text>
     <text x="64" y="31" class="achievement">OPEN SOURCE</text>
-    <text x="64" y="51" class="detail">4 public repositories</text>
+    <text x="64" y="51" class="detail">6 public repositories</text>
   </g>
   
   <g transform="translate(702 52)">
@@ -53,7 +53,7 @@
     <circle cx="34" cy="36" r="20" fill="#082F49" stroke="#0EA5E9"/>
     <text x="34" y="43" text-anchor="middle" class="icon">↟</text>
     <text x="64" y="31" class="achievement">RELEASE CRAFT</text>
-    <text x="64" y="51" class="detail">23 published releases</text>
+    <text x="64" y="51" class="detail">28 published releases</text>
   </g>
   
   <g transform="translate(488 134)">
@@ -73,7 +73,7 @@
   </g>
   <text x="34" y="236" class="heading">LANGUAGES</text>
   <clipPath id="languageBar"><rect x="34" y="250" width="852" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#languageBar)"><rect x="34" y="250" width="535" height="10" fill="#38BDF8"/><rect x="569" y="250" width="169" height="10" fill="#0EA5E9"/><rect x="738" y="250" width="51" height="10" fill="#2563EB"/><rect x="789" y="250" width="38" height="10" fill="#6366F1"/><rect x="827" y="250" width="33" height="10" fill="#22D3EE"/><rect x="860" y="250" width="6" height="10" fill="#60A5FA"/></g>
-  <circle cx="34" cy="286" r="5" fill="#38BDF8"/><text x="46" y="291" class="legend">Rust 62.8%</text><circle cx="250" cy="286" r="5" fill="#0EA5E9"/><text x="262" y="291" class="legend">C# 19.8%</text><circle cx="466" cy="286" r="5" fill="#2563EB"/><text x="478" y="291" class="legend">ActionScript 6.0%</text><circle cx="682" cy="286" r="5" fill="#6366F1"/><text x="694" y="291" class="legend">Fluent 4.4%</text>
+  <g clip-path="url(#languageBar)"><rect x="34" y="250" width="528" height="10" fill="#38BDF8"/><rect x="562" y="250" width="175" height="10" fill="#0EA5E9"/><rect x="737" y="250" width="50" height="10" fill="#2563EB"/><rect x="787" y="250" width="37" height="10" fill="#6366F1"/><rect x="824" y="250" width="32" height="10" fill="#22D3EE"/><rect x="856" y="250" width="7" height="10" fill="#60A5FA"/></g>
+  <circle cx="34" cy="286" r="5" fill="#38BDF8"/><text x="46" y="291" class="legend">Rust 62.0%</text><circle cx="250" cy="286" r="5" fill="#0EA5E9"/><text x="262" y="291" class="legend">C# 20.6%</text><circle cx="466" cy="286" r="5" fill="#2563EB"/><text x="478" y="291" class="legend">ActionScript 5.9%</text><circle cx="682" cy="286" r="5" fill="#6366F1"/><text x="694" y="291" class="legend">Fluent 4.4%</text>
   <text x="886" y="303" text-anchor="end" class="detail">public data · daily update</text>
 </svg>

@@ -74,6 +74,6 @@
   <text x="34" y="236" class="heading">LANGUAGES</text>
   <clipPath id="languageBar"><rect x="34" y="250" width="852" height="10" rx="5"/></clipPath>
   <g clip-path="url(#languageBar)"><rect x="34" y="250" width="528" height="10" fill="#38BDF8"/><rect x="562" y="250" width="175" height="10" fill="#0EA5E9"/><rect x="737" y="250" width="50" height="10" fill="#2563EB"/><rect x="787" y="250" width="37" height="10" fill="#6366F1"/><rect x="824" y="250" width="32" height="10" fill="#22D3EE"/><rect x="856" y="250" width="7" height="10" fill="#60A5FA"/></g>
-  <circle cx="34" cy="286" r="5" fill="#38BDF8"/><text x="46" y="291" class="legend">Rust 62.0%</text><circle cx="250" cy="286" r="5" fill="#0EA5E9"/><text x="262" y="291" class="legend">C# 20.6%</text><circle cx="466" cy="286" r="5" fill="#2563EB"/><text x="478" y="291" class="legend">ActionScript 5.9%</text><circle cx="682" cy="286" r="5" fill="#6366F1"/><text x="694" y="291" class="legend">Fluent 4.4%</text>
+  <circle cx="34" cy="286" r="5" fill="#38BDF8"/><text x="46" y="291" class="legend">Rust 61.9%</text><circle cx="250" cy="286" r="5" fill="#0EA5E9"/><text x="262" y="291" class="legend">C# 20.6%</text><circle cx="466" cy="286" r="5" fill="#2563EB"/><text x="478" y="291" class="legend">ActionScript 5.9%</text><circle cx="682" cy="286" r="5" fill="#6366F1"/><text x="694" y="291" class="legend">Fluent 4.4%</text>
   <text x="886" y="303" text-anchor="end" class="detail">public data · daily update</text>
 </svg>

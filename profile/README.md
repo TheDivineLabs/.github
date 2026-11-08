@@ -37,6 +37,16 @@
   <h3>PORTFOLIO</h3>
 </div>
 
+<!-- HAPPINESS-CLIENT:START -->
+<table>
+  <tr><td>
+    <h3><a href="https://github.com/TheDivineLabs/DivineLabs_Happiness_Releases">DivineLabs Happiness Client</a></h3>
+    <p>A free MusicWars client for Windows with VK sign-in, graphics settings, screenshots and game metrics.</p>
+    <p><a href="https://github.com/TheDivineLabs/DivineLabs_Happiness_Releases/releases/latest">Download</a> · <a href="https://github.com/TheDivineLabs/DivineLabs_Happiness_Releases/blob/main/NEWS.md">Updates</a> · <a href="https://github.com/TheDivineLabs/DivineLabs_Happiness_Releases/blob/main/docs/settings.md">Settings guide</a></p>
+  </td></tr>
+</table>
+<!-- HAPPINESS-CLIENT:END -->
+
 <!-- PORTFOLIO:START -->
 <table>
   <tr><td>
